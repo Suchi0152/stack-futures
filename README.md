@@ -18,5 +18,6 @@ highlight the inefficiencies in bulk purchase brought on by current platforms de
 
 5 Impact, Conclusion:
  the advantages of the platform, such as enhanced purchase choices, decreased order failures, time savings, and future expansion possibilities via AI integration for individualized suggestions and predictive stock management.
-
+https://www.figma.com/proto/KW1azOtjP3l5XbyOs5rQcB/Untitled?node-id=4-6&p=f&t=rs0rwu2qkZwcWCea-1&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=4%3A6
+figma url to check the prototype
 
