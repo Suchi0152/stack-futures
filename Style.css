@@ -1,0 +1,84 @@
+/* General */
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 20px;
+}
+
+.card {
+  background: #fff;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+h2, h3, h4 {
+  margin: 10px 0;
+  color: #333;
+}
+
+p, li {
+  color: #555;
+  font-size: 14px;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  margin: 5px 3px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.btn.primary { background: #ff6b35; color: #fff; }
+.btn.success { background: #28a745; color: #fff; }
+.btn.warning { background: #f39c12; color: #fff; }
+
+.instock {
+  color: green;
+  font-weight: bold;
+}
+
+/* Product list */
+.product-list img {
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+/* Login inputs */
+.login input {
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+/* Insights list */
+.insights ul {
+  list-style: none;
+  padding: 0;
+}
+.insights li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+}
+.insights span {
+  font-weight: bold;
+  color: #333;
+}
